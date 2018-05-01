@@ -1,0 +1,2 @@
+#EXTM3U
+http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3706.ts
